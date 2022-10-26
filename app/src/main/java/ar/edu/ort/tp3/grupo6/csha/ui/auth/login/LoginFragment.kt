@@ -1,4 +1,4 @@
-package ar.edu.ort.tp3.grupo6.csha.ui.login
+package ar.edu.ort.tp3.grupo6.csha.ui.auth.login
 
 import android.os.Bundle
 import android.view.LayoutInflater
